@@ -1,22 +1,30 @@
-# Hi, nice to see you up here!
+# Hi,
 ## My name is Paweł Mierzwa.
 
 ============================
+## About me
 
-- I'm a full-stack web developer 🅿️
-- In the free time I'm working on games in Unreal Engine 5 🐐
-- Always trying to make my ideas come into the reality
+- Cybersecurity enjoyer
+- Full-stack Web Developer
+- Not scared of C++
+- A lot of ideas and not a lot of free time
+- Phone's screen cracked on `16.01.2024`
 
 ============================
+## Working with
 
-### I would call myself good in:
+#### C++
+- **VS22**
+- [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
 
-- C++
-- JavaScript
-- Java 
+#### JavaScript
+- **VSCode** (i dont know how to use nvim efficiently)
+- [Nuxt](https://github.com/nuxt), [Vue.js](https://github.com/vuejs)
+#### Java
+- **IntelliJ**
+- [JDA](https://github.com/discord-jda/JDA)
 
 ===========================
-
-## You can find me on:
-* **[my own site](https://cnsh.dev)**
-* **[linkedin](https://www.linkedin.com/in/paweł-mierzwa-12826b250/)**
+### Links
+* **[Portfolio](https://cnsh.dev)**
+* **[LinkedIn](https://www.linkedin.com/in/cnsh/)**
