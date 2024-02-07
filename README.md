@@ -11,8 +11,8 @@
 ### C++
 - **VS22**
 - [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-### JavaScript
-- **VSCode** `(i dont know how to use nvim efficiently)`
+### TypeScript / JavaScript
+- **VSCode** `(idk how to use nvim efficiently)`
 - [Nuxt](https://github.com/nuxt), [Vue.js](https://github.com/vuejs), [Express.js](https://github.com/expressjs)
 ### Java
 - **IntelliJ**
