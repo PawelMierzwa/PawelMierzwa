@@ -1,7 +1,6 @@
 
 ---
-<img src="https://readme.cnsh.dev/cpp.svg" width="50" />
-<img src="https://readme.cnsh.dev/language-csharp.svg" width="50" />
+<img src="https://readme.cnsh.dev/cpp.svg" width="50" /><img src="https://readme.cnsh.dev/language-csharp.svg" width="50" />
 <img src="https://readme.cnsh.dev/language-javascript.svg" width="50" />
 <a href="https://github.com/microsoft/TypeScript"><img src="https://readme.cnsh.dev/language-typescript.svg" width="50" /></a>
 <img src="https://readme.cnsh.dev/language-python.svg" width="50" />
