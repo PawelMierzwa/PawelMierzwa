@@ -1,25 +1,21 @@
-# Hi, My name is Paweł Mierzwa.
 
-## About me
-- Cybersecurity enjoyer
-- Full-stack Web Developer
-- Not scared of C++
-- A lot of ideas and not a lot of free time
-- Phone's screen cracked on `16.01.2024`
+---
+<img src="https://readme.cnsh.dev/cpp.svg" width="50" />
+<img src="https://readme.cnsh.dev/language-csharp.svg" width="50" />
+<img src="https://readme.cnsh.dev/language-javascript.svg" width="50" />
+<a href="https://github.com/microsoft/TypeScript"><img src="https://readme.cnsh.dev/language-typescript.svg" width="50" /></a>
+<img src="https://readme.cnsh.dev/language-python.svg" width="50" />
+<img src="https://readme.cnsh.dev/language-java.svg" width="50" />
+<a href="https://github.com/JetBrains/kotlin"><img src="https://readme.cnsh.dev/language-kotlin.svg" width="50" /></a>
 
-## Working with
-### C++
-- **VS22**
-- [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-### TypeScript / JavaScript
-- **VSCode** `(idk how to use nvim efficiently)`
-- [Nuxt](https://github.com/nuxt), [Vue.js](https://github.com/vuejs), [Express.js](https://github.com/expressjs)
-### Java
-- **IntelliJ**
-- [JDA](https://github.com/discord-jda/JDA)
-### Databases
-- MySQL, [MongoDB](https://github.com/mongodb)
+<a href="https://github.com/EpicGames/UnrealEngine"><img src="https://readme.cnsh.dev/unreal.svg" width="50" /></a>
+<a href="https://github.com/vuejs"><img src="https://readme.cnsh.dev/vuejs.svg" width="50" /></a>
+<a href="https://github.com/vuetifyjs"><img src="https://readme.cnsh.dev/vuetify.svg" width="50" /></a>
+<a href="https://github.com/nuxt"><img src="https://readme.cnsh.dev/nuxt.svg" width="50" /></a>
+<a href="https://github.com/dotnet"><img src="https://readme.cnsh.dev/dot-net.svg" width="50" /></a>
+<img src="https://readme.cnsh.dev/microsoft-visual-studio.svg" width="50" />
+<img src="https://readme.cnsh.dev/intellij-idea.svg" width="50" />
 
-## Links
-* **[Portfolio](https://cnsh.dev)**
-* **[LinkedIn](https://www.linkedin.com/in/cnsh/)**
+---
+<a href="https://cnsh.dev/"><img src="https://readme.cnsh.dev/application-brackets.svg" alt="portfolio" width="50" /></a>
+<a href="https://linkedin.com/in/cnsh/"><img src="https://readme.cnsh.dev/linkedin.svg" width="50" /></a>
